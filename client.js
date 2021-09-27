@@ -49,5 +49,3 @@ function startbot()
     findpath();
     setTimeout(startbot, 1)
 }
-
-startbot();
